@@ -1,0 +1,14 @@
+{
+    "validation": {
+        "min-lower-bound": 0.0,
+        "min-upper-bound": 0.5,
+        "max-lower-bound": 2.0,
+        "max-upper-bound": 14.0,
+        "rmse-upper-bound": 5.0
+    },
+    "prediction": {
+        "cparam-lower-bound": 35.0,
+        "cparam-upper-bound": 85.0,
+        "rmse-threshold": 0.018
+    }
+}

@@ -1,0 +1,8 @@
+archive
+.venv
+.venv-notebook
+.venv-deploy
+*.csv
+__pycache__
+.vscode
+.DS_Store
